@@ -111,127 +111,17 @@ links:
     # TELEGRAM
   - Name: Telegram
     URL: http://telegram.me
-    Username: theharshtrivedi
+    Username: sassyecoder
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
     # SNAPCHAT
   - Name: Snapchat
     URL: https://www.snapchat.com/add
-    Username: 'harsh98trivedi'
+    Username: 'thesassyecoder'
     Color: '#FFFC00'
     Text_Color: '#000000'
     Icon-Class: fab fa-snapchat-ghost
-
-  #   # DISCORD
-  # - Name: Discord
-  #   URL: 'https://discord.gg'
-  #   Username: 
-  #   Icon-Class: fab fa-discord
-  #   Color: '#5865F2'
-  #   Text_Color: '#ffffff'
-
-    # PINTEREST
-  - Name: Pinterest
-    URL: https://pinterest.com
-    Username: 'harsh98trivedi'
-    Color: '#E60023'
-    Icon-Class: fab fa-pinterest
-
-    # BEHANCE
-  - Name: Behance
-    URL: https://www.behance.net
-    Username: harsh98trivedi
-    Color: '#1769ff'
-    Icon-Class: fab fa-behance
-
-  #   # DRIBBBLE
-  # - Name: Dribbble
-  #   URL: https://dribbble.com
-  #   Username: 
-  #   Color: '#ea4c89'
-  #   Icon-Class: fab fa-dribbble
-
-    # DEVIANTART
-  - Name: DeviantArt
-    URL: https://www.deviantart.com
-    Username: harshtrivedi
-    Icon-Class: fab fa-deviantart
-    Color: '#05CC46'
-    Text_Color: '#ffffff'
-
-    # FIGMA
-  - Name: Figma
-    URL: https://www.figma.com
-    Username: '@harshtrivedi'
-    Icon-Class: fab fa-figma
-    Color: '#ff2865'
-    Text_Color: '#ffffff'
-
-    # SPOTIFY
-  - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
-
-    # SOUNDCLOUD
-  - Name: SoundCloud
-    URL: https://www.soundcloud.com
-    Username: harsh98trivedi
-    Color: '#FE5000'
-    Icon-Class: fab fa-soundcloud
-
-  #    # TIKTOK
-  # - Name: TikTok
-  #   URL: https://www.tiktok.com
-  #   Username: 
-  #   Color: '#FE2C55'
-  #   Icon-Class: fab fa-tiktok
-
-    # MEDIUM
-  - Name: Medium
-    URL: 'https://medium.com'
-    Username: '@harsh98trivedi'
-    Icon-Class: fab fa-medium-m
-    Color: '#00ab6c'
-    Text_Color: '#ffffff'
-
-    # DEV.TO
-  - Name: Dev.to
-    URL: 'https://dev.to'
-    Username: harsh98trivedi
-    Icon-Class: fab fa-dev
-    Color: '#ffffff'
-    Text_Color: '#000000'
-
-  #   # TUMBLR
-  # - Name: Tumblr
-  #   URL: https://www.tumblr.com
-  #   Username: 
-  #   Color: '#35465c'
-  #   Icon-Class: fab fa-tumblr
-
-  # BUY ME A COFFEE
-  - Name: BuyMeACoffee
-    URL: 'https://buymeacoffee.com'
-    Username: harshtrivedi
-    Icon-Class: fas fa-mug-hot
-    Color: '#FFDD00'
-    Text_Color: '#000000'
-
-    # CUSTOM LINK
-  - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
-
-  - Name: Links
-    URL: https://github.com/harsh98trivedi/links
-    Icon-Class: fas fa-link
-    Color: '#d94869'
-    Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
