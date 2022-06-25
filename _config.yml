@@ -2,7 +2,7 @@
 name: Sneha omer
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Sneha Omer. 
+tagline: Howdy, I'm Sneha Omer. I'm a tiny nerd with a curious brain and a will to turn information into action. I love to play with most of the techie stuff and relating creativity with logic is what I enjoy the most. A Glorious Gryffindor. A sassy geek with noble ambitions.
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/sassyecoder.png
@@ -52,28 +52,28 @@ links:
 
     # YOUTUBE
   - Name: YouTube
-    URL: https://www.youtube.com/channel
+    URL: 
     Username: 
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
     # GITHUB
   - Name: GitHub
-    URL: http://github.com
+    URL: https://github.com
     Username: sassyecoder
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
     # EMAIL
   - Name: Email
-    URL: ''
+    URL: 'sassyecoder@gmail.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
 
     # TWITCH
   - Name: Twitch
-    URL: 'https://twitch.tv'
+    URL: 
     Username: 
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
@@ -81,7 +81,7 @@ links:
 
     # VIMEO
   - Name: Vimeo
-    URL: 'https://vimeo.com'
+    URL: 
     Username: 
     Icon-Class: fab fa-vimeo-v
     Color: '#1ab7ea'
@@ -117,7 +117,7 @@ links:
 
     # SNAPCHAT
   - Name: Snapchat
-    URL: https://www.snapchat.com/add
+    URL: 
     Username: 'thesassyecoder'
     Color: '#FFFC00'
     Text_Color: '#000000'
